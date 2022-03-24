@@ -63,3 +63,4 @@ while (pesan_minuman == True):
 
 print("\nKamu telah memesan " + makanan[choice1-1][0] + " " + str(totalchoice1) + " porsi dan " + minuman[choice2-1][0] + " " + str(totalchoice2) + " buah")
 print("Selamat menikmati!")
+print("Sekian Tugas Modul 4")
